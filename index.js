@@ -1,5 +1,5 @@
 let body = document.querySelector("body");
 
-let button = document.createElement("<p>");
+let p = document.createElement("p");
 
-body.appendChild(button);
+body.appendChild(p);
